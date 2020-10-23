@@ -1,5 +1,5 @@
 # using this awesome prebuild image:
-FROM 'mesayusriana12/php-7.1-nginx:cicd'
+FROM 'mesayusriana12/php-7.1-apache:cicd'
 MAINTAINER  Muhammad Esa Yusriana <mesayusriana12@gmail.com>
 
 # Install prestissimo for faster deps instalation
